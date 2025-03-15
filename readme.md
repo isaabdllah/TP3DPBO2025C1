@@ -20,10 +20,6 @@ Setelah semua komponen dan periferal diinisialisasi, objek Komputer dibuat denga
 
 Program kemudian menampilkan spesifikasi lengkap dari komputer yang telah dibuat, termasuk detail dari setiap komponen dan periferal.
 
-## Pengelolaan Periferal
-
-Program juga menyediakan fungsi untuk menambah dan menghapus periferal dari daftar periferal yang dimiliki oleh komputer.
-
 # Konsep Desain Kelas
 ![alt text](diagramTP3DPBOpng.png)
 
