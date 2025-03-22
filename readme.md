@@ -1,7 +1,7 @@
 # README - Program Komputer
 
 ## Janji
-Saya Muhammad Isa Abdullah dengan NIM 2303508 mengerjakan Latihan Modul 1 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Muhammad Isa Abdullah dengan NIM 2303508 mengerjakan Tugas Praktikum 3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Alur Program
 
